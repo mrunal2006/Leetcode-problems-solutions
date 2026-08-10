@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
