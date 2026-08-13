@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
