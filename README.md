@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0217-contains-duplicate) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
