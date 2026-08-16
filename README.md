@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -133,4 +136,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
