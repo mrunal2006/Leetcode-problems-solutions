@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1260-shift-2d-grid) |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
 | ------- |
@@ -143,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -155,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
