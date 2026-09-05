@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
