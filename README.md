@@ -190,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
