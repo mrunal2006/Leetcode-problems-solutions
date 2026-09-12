@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
