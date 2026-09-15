@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0383-ransom-note) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0010-regular-expression-matching) |
 | [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 ## Sliding Window
