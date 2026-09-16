@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0189-rotate-array) |
 | [1872-stone-game-viii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1872-stone-game-viii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0162-find-peak-element) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/mrunal2006/Leetcode-problems-solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
